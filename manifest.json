@@ -7,7 +7,9 @@
     "css": "style.css",
     "author": "从前跟你一样",
     "version": "1.0.2",
-    "homePage": "https://github.com/damoshen123/st-chatu8"
+    "homePage": "https://github.com/damoshen123/st-chatu8",
+    "updata":"v1.0.4:更新说明:1.修复了换行无法识别的问题\n2.修复comfyui没有cfg参数问题."
 }
+
 
 
